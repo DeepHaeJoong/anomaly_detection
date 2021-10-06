@@ -11,7 +11,8 @@ Autoencoder, SVM, GAN 기반의 Anomaly Detection에 대한 Papers
 ## Papers
 ___
 
-- Variational Autoencoder, Adversarial Autoencoders [[paper](https://arxiv.org/abs/1606.05908) / [review](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)]
+- Variational Autoencoder [[paper](https://arxiv.org/abs/1606.05908) / [review](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)]
+- Adversarial Autoencoders  [[paper](https://arxiv.org/abs/1511.05644) / [review](https://greeksharifa.github.io/generative%20model/2020/08/23/AAE/)]
 - Deep-SVDD 
 - Anogan, f-AnoGAN  
 - GANomaly, EGBAD  
